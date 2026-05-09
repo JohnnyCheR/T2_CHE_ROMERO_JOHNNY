@@ -1,1 +1,2 @@
 PRIMER COMMIT
+Ruta del repositorio: https://github.com/JohnnyCheR/T2_CHE_ROMERO_JOHNNY
